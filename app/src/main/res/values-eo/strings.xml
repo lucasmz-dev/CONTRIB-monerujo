@@ -259,7 +259,12 @@
     <string name="tx_account">Konto #</string>
 
     <string name="send_sweepall">Sendi ĉiujn konfirmitajn monsumojn al tiu konto!</string>
-    <string name="tx_subaddress">Subadreso</string>
+    <string name="tx_subaddress">Subadreso</string>    <string name="menu_ledger_seed">Convert Ledger Seed</string>
+    <string name="prompt_ledger_seed">Ledger Seed Words</string>
+    <string name="prompt_ledger_phrase">Ledger Passphrase (optional)</string>
+    <string name="bad_ledger_seed">Invalid Ledger Seed!</string>
+    <string name="prompt_ledger_seed_warn">Entering your Ledger Seed here is a major security risk!</string>
+
     <string name="generate_address_label_sub">Publika subadreso #%1$d: %2$s</string>
 
     <string name="menu_language">Lingvo</string>
@@ -313,4 +318,6 @@
     <string name="send_address_hint">Ricevanto</string>
 
     <string name="street_sweep_amount">ĈIO!</string>
+
+    <string name="label_restoreheight">Restaŭralteco</string> <!-- Restore Height -->
 </resources>

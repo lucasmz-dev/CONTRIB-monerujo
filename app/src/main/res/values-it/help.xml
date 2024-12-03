@@ -225,8 +225,6 @@
         termina quando vengono trovati 10 nodi in totale.</p>
     ]]></string>
 
-    <!-- Note for translators: new/changed text also in help_send -->
-
     <string name="help_uri"><![CDATA[
         <h1>Uso di un link di pagamento</h1>
         <p>Hai avviato monerujo con un link di pagamento. Per inviare fondi, procedi in questo modo:</p>

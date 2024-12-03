@@ -271,4 +271,6 @@
 
     <string name="toast_ledger_attached">%1$s csatlakoztatva</string>
     <string name="toast_ledger_detached">%1$s leválasztva</string>
+
+    <string name="label_restoreheight">Visszaállítási lánchossz</string> <!-- Restore Height -->
 </resources>

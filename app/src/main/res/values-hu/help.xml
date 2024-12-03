@@ -172,6 +172,4 @@
         <p>A tárcához tartozó tranzakciók listája. A csak megtekintésre szolgáló tárcák esetében kizárólag
         a bejövő tranzakciók kerülnek megjelenítésre.</p>
     ]]></string>
-
-    <!-- Note for translators: new/changed text also in help_send -->
 </resources>
